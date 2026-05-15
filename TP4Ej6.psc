@@ -42,6 +42,8 @@ Algoritmo TP4Ej6
 			Escribir "Valor de compra: $", importe
 			Escribir "Descuento 100%"
 			Escribir "Su compra le salio bonificada al 100%"
+		De Otro Modo:
+			Escribir "Selecciono un color incorrecto de bolilla"
 	FinSegun
 	
 	

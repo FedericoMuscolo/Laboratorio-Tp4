@@ -139,6 +139,8 @@ Algoritmo TP4Ej5
 					Leer varAltura
 					Escribir "La superficie del Trapecio de Base Mayor ", varBase, " Base Menor ", varBasem, " y Altura ", varAux, " es de: ", (((varBase+varBasem)/2)*varAltura)
 			FinSegun
+		De Otro Modo:
+			Escribir "Ingreso una opcion que no corresponde ninguna figura"
 	FinSegun
 	
 FinAlgoritmo

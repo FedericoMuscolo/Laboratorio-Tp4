@@ -50,6 +50,8 @@ Algoritmo TP4Ej3
 				Escribir "Remuneraciones: $", remun
 				Escribir "Descuento: $", desc
 				Escribir "Sueldo neto: $", neto
+			De Otro Modo:
+				Escribir "Ingreso una opcion incorrecta para el rango de antiguedad"
 		FinSegun
 	SiNo
 		Segun (codigo) Hacer
@@ -81,6 +83,8 @@ Algoritmo TP4Ej3
 				Escribir "Remuneraciones: $", remun
 				Escribir "Descuento: $", desc
 				Escribir "Sueldo neto: $", neto
+			De Otro Modo:
+				Escribir "Ingreso una opcion incorrecta para el rango de antiguedad"
 		FinSegun
 	FinSi
 	

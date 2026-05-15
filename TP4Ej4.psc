@@ -121,7 +121,11 @@ Algoritmo TP4Ej4
 				SiNo
 					Escribir varDia, " de Diciembre de 20", varAno
 				FinSi
+			De Otro Modo:
+				Escribir "El valor ingresado para el mes es incorrecto"
 		FinSegun
+	SiNo
+		Escribir "Ingreso un valor de dia incorrecto"
 	FinSi
 	
 FinAlgoritmo
